@@ -1,3 +1,4 @@
+#include "tools.h"
 #include "config.h"
 #include "main.h"
 
